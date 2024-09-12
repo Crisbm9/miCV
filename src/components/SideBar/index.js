@@ -23,7 +23,7 @@ export default function SideBar({ sections = [] }) {
           />
           <Nav sections={sections} />
         </div>
-        <Footer socialLinks={config.socialLinks} />
+        {/* <Footer socialLinks={config.socialLinks} /> */}
       </div>
 
       {/* <section id="header">

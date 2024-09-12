@@ -77,7 +77,7 @@ const IndexPage = () => (
 
           
            <p>
-          <h3 style={{color:`#e2bb8f`}}>Desarrollo web para Patrimonio Nacional (1 año) desarrollando aplicaciones y páginas web </h3>            
+          <h3 style={{color:`black`}}>Desarrollo web para Patrimonio Nacional (1 año) desarrollando aplicaciones y páginas web </h3>            
             </p>
             <p>
             Aprovisionamiento y reposición en el departamento de logística de Ikea (4 meses)
