@@ -65,56 +65,7 @@ const IndexPage = () => (
             Bachillerato de ciencias 
             </p>
             
-            {/* <h3 style={{color:`#e2bb8f`}}>
 
-            </h3> */}
-            
-          
-
-          {/* <div className="row">
-            <div className="col-4 col-12-mobile">
-              <article className="item">
-                
-                <header>
-                  <h3>Ipsum Feugiat</h3>
-                </header>
-              </article>
-              <article className="item">
-              
-                <header>
-                  <h3>Rhoncus Semper</h3>
-                </header>
-              </article>
-            </div>
-            <div className="col-4 col-12-mobile">
-              <article className="item">
-                
-                <header>
-                  <h3>Magna Nullam</h3>
-                </header>
-              </article>
-              <article className="item">
-                
-                <header>
-                  <h3>Natoque Vitae</h3>
-                </header>
-              </article>
-            </div>
-            <div className="col-4 col-12-mobile">
-              <article className="item">
-                
-                <header>
-                  <h3>Dolor Penatibus</h3>
-                </header>
-              </article>
-              <article className="item">
-                
-                <header>
-                  <h3>Orci Convallis</h3>
-                </header>
-              </article>
-            </div>
-          </div> */}
         </div>
       </section>
 
