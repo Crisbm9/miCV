@@ -1,0 +1,15 @@
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slide-image {
+  width:1000px; 
+  height: 600px; 
+}
+
+.cardtotal{
+  display: grid!important;
+
+}
